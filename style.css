@@ -1,0 +1,73 @@
+.image{
+  background-image: url(background.png);
+padding-bottom: 1px;
+padding-top: 2px;
+  background-repeat: no-repeat;
+}
+h3{
+  color: white;
+
+}
+
+.text{
+  text-align: center;
+  margin-top: 20px;
+
+}
+.search {
+  display: flex;
+  justify-content: space-between;
+}
+.form-control{
+  height: 25%;
+  width: 20%;
+  margin-left: 30%;
+}
+.dropdown{
+  margin-right: 30%;
+}
+.card{
+  padding: 8px;
+  margin: 5%;
+  margin-left: 20%;
+  margin-right:20%;
+
+}
+.colm{
+  margin-bottom:  2%;
+}
+.col{
+  align-items: center;
+}
+.ro1{
+  display: inline-block;
+}
+.ro2{
+  display: inline-block;
+}
+a{
+  font-size: 20px;
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+a:active{
+  text-decoration: none;
+}
+.container{
+  margin-top: 2px;
+}
+.link{
+  margin-left: 45%;
+  margin-bottom: 40px;
+
+}
+.register{
+  float: right;
+}
